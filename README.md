@@ -24,3 +24,5 @@ pixi run consume --topic nmx_detector
 ### TODO
 - [ ] We can probably pick up the topic directly from the nexus file, instead of being explicit the produce command.
 - [ ] Document the get_forward_delta function to explain the timestamp of event production.
+- [ ] Use copier template for this instead?
+- [ ] Test this out with all instruments
