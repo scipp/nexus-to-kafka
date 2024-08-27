@@ -1,0 +1,8 @@
+# pixi environments
+.pixi
+*.egg-info
+.ipynb_checkpoints/
+__pycache__/
+
+# dont commit nexus files to git
+*.hdf

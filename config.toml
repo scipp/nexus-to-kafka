@@ -1,0 +1,6 @@
+[kafka]
+kafka_address = "localhost:9092"
+bootstrap_servers = "localhost:9092"
+acks = "all"
+queue_buffering_max_messages = 100000000
+linger_ms = 500
