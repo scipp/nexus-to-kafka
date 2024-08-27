@@ -26,3 +26,9 @@ pixi run consume --topic nmx_detector
 - [ ] Document the get_forward_delta function to explain the timestamp of event production.
 - [ ] Use copier template for this instead?
 - [ ] Test this out with all instruments
+
+
+
+
+https://github.com/user-attachments/assets/ef5e8f99-7e8a-4ab7-85a0-7f99025845f2
+
